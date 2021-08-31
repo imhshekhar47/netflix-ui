@@ -10,7 +10,6 @@ npm install
 npm start   
 ```
 
-
 # HowTo
 ### 1. Configuring environment varibales
 create an environment file ./.env.local and set environment var as
